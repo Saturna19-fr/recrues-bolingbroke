@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Pénitancier",
+  title: "Pénitencier",
   description: "Une check list pour faire les rapports correctement",
 };
 

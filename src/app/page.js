@@ -9,7 +9,7 @@ export default function Home() {
     <div className="mx-auto max-w-md">
       <div className="flex items-center">
       <Image src="https://raw.githubusercontent.com/Saturna19-fr/recrues-bolingbroke/refs/heads/main/public/SASPA_GTA_V.webp" height={10} width={40} objectFit="contain" className="h-10" alt="Tailwind Play" />
-      <p className="ml-4 text-2xl/7 font-bold  sm:truncate sm:text-3xl sm:tracking-tight">Pénitancier de Bolingbroke</p>
+      <p className="ml-4 text-2xl/7 font-bold  sm:truncate sm:text-3xl sm:tracking-tight">Pénitencier de Bolingbroke</p>
 
       </div>
       <div className="">
