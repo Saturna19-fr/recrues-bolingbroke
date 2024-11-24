@@ -4,11 +4,11 @@ export default function Home() {
   return (
     <div data-theme='light' className="">
       <div className="relative flex min-h-screen flex-col justify-center overflow-hidden py-6 sm:py-12">
-  <div className="absolute inset-0 bg-[url(/grid.svg)] bg-center bg-gradient-to-r from-gray-700 to-gray-800"></div>
+  <div className="absolute bg-center bg-gradient-to-r from-gray-700 to-gray-800"></div>
   <div className="relative  bg-primary-content px-6 pt-10 pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:max-w-lg sm:rounded-lg sm:px-10">
     <div className="mx-auto max-w-md">
       <div className="flex items-center">
-      <Image src="/SASPA_GTA_V.webp" height={10} width={40} objectFit="contain" className="h-10" alt="Tailwind Play" />
+      <Image src="https://raw.githubusercontent.com/Saturna19-fr/recrues-bolingbroke/refs/heads/main/public/SASPA_GTA_V.webp" height={10} width={40} objectFit="contain" className="h-10" alt="Tailwind Play" />
       <p className="ml-4 text-2xl/7 font-bold  sm:truncate sm:text-3xl sm:tracking-tight">Pénitancier de Bolingbroke</p>
 
       </div>
