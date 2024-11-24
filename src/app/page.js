@@ -8,13 +8,14 @@ export default function Home() {
   <div className="relative  bg-primary-content px-6 pt-10 pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:max-w-lg sm:rounded-lg sm:px-10">
     <div className="mx-auto max-w-md">
       <div className="flex items-center">
-      <Image src="/SASPA_GTA_V.webp" className="h-10" alt="Tailwind Play" />
+      <Image src="/SASPA_GTA_V.webp" height={10} width={40} objectFit="contain" className="h-10" alt="Tailwind Play" />
       <p className="ml-4 text-2xl/7 font-bold  sm:truncate sm:text-3xl sm:tracking-tight">Pénitancier de Bolingbroke</p>
 
       </div>
       <div className="">
         <div className="space-y-6 py-8 text-base leading-7 ">
           <p className="text-sec">C&#39;est le moment de regarder si tu as bien suivi toute la procédure !</p>
+          <p><span className="font-bold">Astuce de pro: </span>Clique sur chaque étape pour la marquer comme <span className="font-bold text-green-600">validée</span></p>
           <ActSteps />
           
           <p>A toi d&#39;adopter le style que tu veux pour l&#39;admission, le but est que vous ayez tout les deux une belle scène</p>
