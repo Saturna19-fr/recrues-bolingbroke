@@ -7,8 +7,8 @@ export default function ActSteps() {
         "Remplir les infos personnelles",
         "Indiquer le matricule du détenu et son utilité",
         "Récupérer les affaires personnelles (tel, radio, ...)",
-        "Demander une visite médicale pour le détenu",
         "Prendre une photo du détenu",
+        "Demander une visite médicale pour le détenu",
         "Envoyer la photo",
         "Signer le dossier",
         "Envoyer le dossier"
